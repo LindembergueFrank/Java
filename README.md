@@ -1,2 +1,2 @@
 # Java
-Repositório para exemplos/exercícios utilizando Java
+Repositório para exercícios e desafios do BootCamp da DIO utilizando Java.
