@@ -18,8 +18,8 @@ public class Contador {
 	}
 	static void contar(int parametroUm, int parametroDois ) throws ParametrosInvalidosException {
 		if (parametroUm > parametroDois) {
-            throw new ParametrosInvalidosException();
-        }else {
+            	throw new ParametrosInvalidosException();
+        	}else {
 			int contagem = parametroDois - parametroUm;
 			for(int indice=0; indice<contagem; indice++){
 				System.out.println("Imprimindo o primeiro número digitado: " + parametroUm);
