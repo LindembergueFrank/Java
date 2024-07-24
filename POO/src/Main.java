@@ -43,6 +43,7 @@ public class Main {
         System.out.println("Contéudos concluidos Bergue: " + devBergue.getConteudosConcluidos());
         System.out.println("XP: " + devBergue.calcularTotalXp());
 
+        System.out.println("-------");
 
         Dev devJose = new Dev();
         devJose.setNome("Josenildo");
