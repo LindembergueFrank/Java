@@ -1,12 +1,12 @@
-# Java ![Java Logo](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+# Repositória Java 
 
-Repositório para exercícios, desafios, tarefas e projetos do BootCamp da DIO utilizando Java.
+Repositório para exercícios, desafios, tarefas e projetos do BootCamp da DIO e cursos da Udemy utilizando Java.
 
 ## Tecnologias Utilizadas
-![Java Logo](https://www.vectorlogo.zone/logos/java/java-icon.svg) **Java**
+![](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 
 ## Conecte-se no LinkedIn
-![LinkedIn Logo](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg) [Meu LinkedIn](https://www.linkedin.com/in/lindembergue-frank-b991202b7/)
+[![LinkedIn Logo](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/lindembergue-frank-b991202b7/)
 
 ## Sobre o Repositório
 Este repositório contém diversos exercícios, desafios, tarefas e projetos realizados durante o BootCamp da DIO e cursos da Udemy. Ele pode ser utilizado como referência para estudos e aprendizado em Java.
