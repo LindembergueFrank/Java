@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/ControleDeFluxo-Desafio/ControleDeFluxo-Desafio.iml" filepath="$PROJECT_DIR$/ControleDeFluxo-Desafio/ControleDeFluxo-Desafio.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafio/Desafio.iml" filepath="$PROJECT_DIR$/Desafio/Desafio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
-      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/src/List/List.iml" filepath="$PROJECT_DIR$/Collections/src/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO_Bootcamp/POO.iml" filepath="$PROJECT_DIR$/POO_Bootcamp/POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sintaxe-Desafio/Sintaxe-Desafio.iml" filepath="$PROJECT_DIR$/Sintaxe-Desafio/Sintaxe-Desafio.iml" />
     </modules>
   </component>
