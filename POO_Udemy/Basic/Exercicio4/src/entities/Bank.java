@@ -12,10 +12,10 @@ public class Bank {
         this.accountNumber = accountNumber;
     }
 
-    public Bank(String nameClient, Integer accountNumber, double accountBalance) {
+    public Bank(String nameClient, Integer accountNumber, double initialBalance) {
         this.nameClient = nameClient;
         this.accountNumber = accountNumber;
-        this.accountBalance = accountBalance;
+        deposit(initialBalance);
     }
 
     public String getNameClient() {
