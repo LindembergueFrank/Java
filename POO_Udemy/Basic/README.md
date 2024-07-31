@@ -105,5 +105,42 @@ A classe `Student` deve ser projetada para armazenar e manipular os dados do alu
 - Status: FAILED
 - Pontos Faltantes: 60 - 29.2 = 30.8
 
+# Exercício 4
+## Cadastro de Conta Bancária
 
+Para cadastrar uma conta bancária, é necessário informar:
 
+1. Número da conta
+2. Nome do titular da conta
+3. Valor de depósito inicial (opcional)
+
+- O número da conta não pode ser alterado após a criação.
+- O nome do titular pode ser alterado.
+- O saldo da conta só pode ser alterado por meio de depósitos e saques.
+- Cada saque tem uma taxa de $5.00.
+- A conta pode ter saldo negativo.
+
+## Funcionalidades do Programa
+
+1. Cadastro de uma nova conta, com opção de depósito inicial.
+2. Realização de depósito.
+3. Realização de saque.
+4. Exibição dos dados da conta após cada operação.
+
+## Exemplo de Uso do Programa
+
+```plaintext
+Enter account number: 8532
+Enter account holder: Alex Green
+Is there an initial deposit (y/n)? y
+Enter initial deposit value: 500.00
+Account data:
+Account 8532, Holder: Alex Green, Balance: $ 500.00
+
+Enter a deposit value: 200.00
+Updated account data:
+Account 8532, Holder: Alex Green, Balance: $ 700.00
+
+Enter a withdraw value: 300.00
+Updated account data:
+Account 8532, Holder: Alex Green, Balance: $ 395.00
