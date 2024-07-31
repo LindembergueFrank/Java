@@ -1,6 +1,6 @@
 # Repositória Java 
 
-Repositório para exercícios, desafios, tarefas e projetos do BootCamp da DIO e cursos da Udemy utilizando Java.
+Repositório para exercícios, desafios, tarefas e projetos do BootCamp da DIO, cursos da Udemy e exercícios de sites (random) utilizando Java.
 
 ## Tecnologias Utilizadas
 ![](https://www.vectorlogo.zone/logos/java/java-icon.svg)
@@ -49,4 +49,4 @@ Este repositório é público e qualquer um pode utilizá-lo. Se você tiver alg
 
 ---
 
-**#Java #SpringFramework #DesenvolvimentoDeSoftware #Udemy #Bootcamp #DIO #Santander #Tecnologia**
+**#Java #SpringFramework #DesenvolvimentoDeSoftware #Udemy #Bootcamp #DIO**
