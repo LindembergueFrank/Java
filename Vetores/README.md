@@ -33,5 +33,18 @@
 # Exercício 11
 ### Tem-se um conjunto de dados contendo a altura e o gênero (M, F) de N pessoas. Fazer um programa que calcule e escreva a maior e a menor altura do grupo, a média de altura das mulheres, e o número de homens. 
 
+# Exercicio 12
+### Sistema de Gerenciamento de Pensionato
+
+A dona de um pensionato possui dez quartos para alugar para estudantes, sendo esses quartos identificados pelos números 0 a 9.
+
+## Funcionalidades
+
+- Iniciar com todos os dez quartos vazios.
+- Ler uma quantidade N representando o número de estudantes que vão alugar quartos (N pode ser de 1 a 10).
+- Registrar o aluguel dos N estudantes.
+- Para cada registro de aluguel, informar o nome e email do estudante, bem como qual dos quartos ele escolheu (de 0 a 9). Suponha que seja escolhido um quarto vago.
+- Ao final, imprimir um relatório de todas as ocupações do pensionato, por ordem de quarto.
+
 <hr>
 <h6>Observação: Os exercícios foram intencionalmente resolvidos apenas com uso de lógica de programação. A aplicação de classes foi exclusivamente para aplicação didática. Qualquer dúvida ou sugestão, abra uma <i>issue</i>.</h6>
