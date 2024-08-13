@@ -8,6 +8,8 @@ public class UsedProduct extends Product {
 
     private LocalDate manufactureDate;
 
+    private static final DateTimeFormatter formato = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+
     public UsedProduct() {
         super();
     }
@@ -27,8 +29,7 @@ public class UsedProduct extends Product {
 
     @Override
     public String priceTag() {
-        DateTimeFormatter formato01 = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         return getName() + "(used)" + " $ " + String.format("%.2f", getPrice())
-                + " (Manufacture date: " + manufactureDate.format(formato01) + ")";
+                + " (Manufacture date: " + manufactureDate.format(formato) + ")";
     }
 }
