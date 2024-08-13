@@ -226,3 +226,4 @@ replay_pid*
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,eclipse,java,intellij
+/OOP/POO_Udemy/Heranca/
