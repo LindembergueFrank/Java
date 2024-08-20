@@ -1,6 +1,11 @@
 # Repositória Java 
 
-Repositório para exercícios, desafios, tarefas e projetos do BootCamp da DIO, cursos da Udemy e exercícios de sites (random) utilizando Java.
+Repositório para exercícios, desafios, tarefas e projetos do BootCamp da DIO, cursos da Udemy e exercícios de sites/youtube utilizando Java.
+
+## Referências
+- [BootCamp Santander - DIO](https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2024)
+- [Java completo POO + Projetos - Nélio Alves](https://www.udemy.com/course/java-curso-completo/?couponCode=SKILLS4SALEA)
+- [Curso de Java - DevDojo](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
 
 ## Tecnologias Utilizadas
 ![](https://www.vectorlogo.zone/logos/java/java-icon.svg)
@@ -9,7 +14,7 @@ Repositório para exercícios, desafios, tarefas e projetos do BootCamp da DIO, 
 [![LinkedIn Logo](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/lindembergue-frank-b991202b7/)
 
 ## Sobre o Repositório
-Este repositório contém diversos exercícios, desafios, tarefas e projetos realizados durante o BootCamp da DIO e cursos da Udemy. Ele pode ser utilizado como referência para estudos e aprendizado em Java.
+Este repositório contém diversos exercícios, desafios, tarefas e projetos realizados durante o BootCamp da DIO, cursos da Udemy e vídeos do youtube. Ele pode ser utilizado como referência para estudos e aprendizado em Java.
 
 ## Como Contribuir
 
@@ -44,9 +49,9 @@ Este repositório contém diversos exercícios, desafios, tarefas e projetos rea
 ### Abra um Pull Request
 1. Vá até a página do seu repositório forkado no GitHub e clique no botão `New Pull Request` para enviar suas alterações para revisão.
 
-## Contribuições
+### Contribuições
 Este repositório é público e qualquer um pode utilizá-lo. Se você tiver alguma dúvida ou sugestão, por favor, abra uma _issue_.
 
 ---
 
-**#Java #SpringFramework #DesenvolvimentoDeSoftware #Udemy #Bootcamp #DIO**
+**#Java #DesenvolvimentoDeSoftware #Youtube #Udemy #BootcampDIO**
