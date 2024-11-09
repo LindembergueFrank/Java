@@ -33,13 +33,11 @@ public class CalculadoraFactorial {
     public double factorial(int n) {
         if (n == 0) {
             return 1;
-        } else if (n == 1) {
-            return 1;
         }
 
-        double result = 0;
-        for (int i = 0; i < n; ++i) {
-            result += n * (n-i);
+        double result = n;
+        for (int i = 1; i< n; i++) {
+            result *= (n-i);
         }
         return result;
     }
