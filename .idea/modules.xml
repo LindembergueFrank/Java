@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/ControleDeFluxo-Desafio/ControleDeFluxo-Desafio.iml" filepath="$PROJECT_DIR$/ControleDeFluxo-Desafio/ControleDeFluxo-Desafio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DataHora/DataHora.iml" filepath="$PROJECT_DIR$/DataHora/DataHora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassesUtilitarias/DataHora/DataHora.iml" filepath="$PROJECT_DIR$/ClassesUtilitarias/DataHora/DataHora.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafio/Desafio.iml" filepath="$PROJECT_DIR$/Desafio/Desafio.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Set_Exercicios/Exercicio01/Exercicio01.iml" filepath="$PROJECT_DIR$/Collections/Set_Exercicios/Exercicio01/Exercicio01.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/POO_Udemy/Basic/Exercicios/Exercicio1.iml" filepath="$PROJECT_DIR$/OOP/POO_Udemy/Basic/Exercicios/Exercicio1.iml" />
