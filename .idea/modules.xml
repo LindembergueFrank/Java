@@ -3,49 +3,49 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ControleDeFluxo-Desafio/ControleDeFluxo-Desafio.iml" filepath="$PROJECT_DIR$/ControleDeFluxo-Desafio/ControleDeFluxo-Desafio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ClassesUtilitarias/DataHora/DataHora.iml" filepath="$PROJECT_DIR$/ClassesUtilitarias/DataHora/DataHora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/ControleDeFluxo-Desafio/ControleDeFluxo-Desafio.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/ControleDeFluxo-Desafio/ControleDeFluxo-Desafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/ClassesUtilitarias/DataHora/DataHora.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/ClassesUtilitarias/DataHora/DataHora.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafio/Desafio.iml" filepath="$PROJECT_DIR$/Desafio/Desafio.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Set_Exercicios/Exercicio01/Exercicio01.iml" filepath="$PROJECT_DIR$/Collections/Set_Exercicios/Exercicio01/Exercicio01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/POO_Udemy/Basic/Exercicios/Exercicio1.iml" filepath="$PROJECT_DIR$/OOP/POO_Udemy/Basic/Exercicios/Exercicio1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Vetores/Exercicio10_Vetores/Exercicio10_Vetores.iml" filepath="$PROJECT_DIR$/Arrays/Vetores/Exercicio10_Vetores/Exercicio10_Vetores.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Vetores/Exercicio11/Exercicio11.iml" filepath="$PROJECT_DIR$/Arrays/Vetores/Exercicio11/Exercicio11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Vetores/Exercicio12_Vetores-Pensionato/Exercicio12_Vetores-Pensionato.iml" filepath="$PROJECT_DIR$/Arrays/Vetores/Exercicio12_Vetores-Pensionato/Exercicio12_Vetores-Pensionato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Basic/Exercicios/Exercicio1.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Basic/Exercicios/Exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio10_Vetores/Exercicio10_Vetores.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio10_Vetores/Exercicio10_Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio11/Exercicio11.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio11/Exercicio11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio12_Vetores-Pensionato/Exercicio12_Vetores-Pensionato.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio12_Vetores-Pensionato/Exercicio12_Vetores-Pensionato.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/List_Exercicios/Exercicio1_List/Exercicio1_List.iml" filepath="$PROJECT_DIR$/Collections/List_Exercicios/Exercicio1_List/Exercicio1_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Map_Exercicios/Exercicio1_Map/Exercicio1_Map.iml" filepath="$PROJECT_DIR$/Collections/Map_Exercicios/Exercicio1_Map/Exercicio1_Map.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Matrizes/BasicMatrizes/Exercicio1_Matrizes.iml" filepath="$PROJECT_DIR$/Arrays/Matrizes/BasicMatrizes/Exercicio1_Matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Matrizes/BasicMatrizes/Exercicio1_Matrizes.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Matrizes/BasicMatrizes/Exercicio1_Matrizes.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgramacaoFuncional_ExpressoesLambda/Exercicio1_ProgFuncional/Exercicio1_ProgFuncional.iml" filepath="$PROJECT_DIR$/ProgramacaoFuncional_ExpressoesLambda/Exercicio1_ProgFuncional/Exercicio1_ProgFuncional.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Vetores/Exercicio1_Vetores/Exercicio1_Vetores.iml" filepath="$PROJECT_DIR$/Arrays/Vetores/Exercicio1_Vetores/Exercicio1_Vetores.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/POO_Udemy/Basic/Exercicio2/Exercicio2.iml" filepath="$PROJECT_DIR$/OOP/POO_Udemy/Basic/Exercicio2/Exercicio2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Vetores/Exercicio2_Vetores/Exercicio2_Vetores.iml" filepath="$PROJECT_DIR$/Arrays/Vetores/Exercicio2_Vetores/Exercicio2_Vetores.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/POO_Udemy/Basic/Exercicio3/Exercicio3.iml" filepath="$PROJECT_DIR$/OOP/POO_Udemy/Basic/Exercicio3/Exercicio3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Vetores/Exercicio3_Vetores/Exercicio3_Vetoress.iml" filepath="$PROJECT_DIR$/Arrays/Vetores/Exercicio3_Vetores/Exercicio3_Vetoress.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/POO_Udemy/Basic/Exercicio4/Exercicio4.iml" filepath="$PROJECT_DIR$/OOP/POO_Udemy/Basic/Exercicio4/Exercicio4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Vetores/Exercicio4_Vetores/Exercicio4_Vetores.iml" filepath="$PROJECT_DIR$/Arrays/Vetores/Exercicio4_Vetores/Exercicio4_Vetores.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Vetores/Exercicio5_Vetores/Exercicio5_Vetores.iml" filepath="$PROJECT_DIR$/Arrays/Vetores/Exercicio5_Vetores/Exercicio5_Vetores.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Vetores/Exercicio6_Vetores/Exercicio6_Vetores.iml" filepath="$PROJECT_DIR$/Arrays/Vetores/Exercicio6_Vetores/Exercicio6_Vetores.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Vetores/Exercicio7_Vetores/Exercicio7_Vetores.iml" filepath="$PROJECT_DIR$/Arrays/Vetores/Exercicio7_Vetores/Exercicio7_Vetores.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Vetores/Exercicio8_Vetores/Exercicio8_Vetores.iml" filepath="$PROJECT_DIR$/Arrays/Vetores/Exercicio8_Vetores/Exercicio8_Vetores.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Vetores/Exercicio9_Vetores/Exercicio9_Vetores.iml" filepath="$PROJECT_DIR$/Arrays/Vetores/Exercicio9_Vetores/Exercicio9_Vetores.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/POO_Udemy/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/OOP/POO_Udemy/Heranca/Heranca.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/POO_Udemy/Interface/Interface.iml" filepath="$PROJECT_DIR$/OOP/POO_Udemy/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio1_Vetores/Exercicio1_Vetores.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio1_Vetores/Exercicio1_Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Basic/Exercicio2/Exercicio2.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Basic/Exercicio2/Exercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio2_Vetores/Exercicio2_Vetores.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio2_Vetores/Exercicio2_Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Basic/Exercicio3/Exercicio3.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Basic/Exercicio3/Exercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio3_Vetores/Exercicio3_Vetoress.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio3_Vetores/Exercicio3_Vetoress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Basic/Exercicio4/Exercicio4.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Basic/Exercicio4/Exercicio4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio4_Vetores/Exercicio4_Vetores.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio4_Vetores/Exercicio4_Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio5_Vetores/Exercicio5_Vetores.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio5_Vetores/Exercicio5_Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio6_Vetores/Exercicio6_Vetores.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio6_Vetores/Exercicio6_Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio7_Vetores/Exercicio7_Vetores.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio7_Vetores/Exercicio7_Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio8_Vetores/Exercicio8_Vetores.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio8_Vetores/Exercicio8_Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio9_Vetores/Exercicio9_Vetores.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Exercicio9_Vetores/Exercicio9_Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Interface/Interface.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/src/List_Example/List.iml" filepath="$PROJECT_DIR$/Collections/src/List_Example/List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/List_Exercicios/List_Exercicios.iml" filepath="$PROJECT_DIR$/Collections/List_Exercicios/List_Exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Map_Exercicios/Map_Exercicios.iml" filepath="$PROJECT_DIR$/Collections/Map_Exercicios/Map_Exercicios.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Matrizes/Matrizes.iml" filepath="$PROJECT_DIR$/Arrays/Matrizes/Matrizes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/POO_Bootcamp/POO.iml" filepath="$PROJECT_DIR$/OOP/POO_Bootcamp/POO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/POO_Udemy/Polimorfismo_Heranca_Abstraction/POO_1/POO_1.iml" filepath="$PROJECT_DIR$/OOP/POO_Udemy/Polimorfismo_Heranca_Abstraction/POO_1/POO_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/POO_Udemy/Polimorfismo_Heranca_Abstraction/POO_2/POO_2.iml" filepath="$PROJECT_DIR$/OOP/POO_Udemy/Polimorfismo_Heranca_Abstraction/POO_2/POO_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/POO_Udemy/POO_Udemy.iml" filepath="$PROJECT_DIR$/OOP/POO_Udemy/POO_Udemy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/POO_Udemy/Polimorfismo_Heranca_Abstraction/Polimorfismo.iml" filepath="$PROJECT_DIR$/OOP/POO_Udemy/Polimorfismo_Heranca_Abstraction/Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Matrizes/Matrizes.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Matrizes/Matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/OOP.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Bootcamp/POO.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Bootcamp/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Polimorfismo_Heranca_Abstraction/POO_1/POO_1.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Polimorfismo_Heranca_Abstraction/POO_1/POO_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Polimorfismo_Heranca_Abstraction/POO_2/POO_2.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Polimorfismo_Heranca_Abstraction/POO_2/POO_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/POO_Udemy.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/POO_Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Polimorfismo_Heranca_Abstraction/Polimorfismo.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/Polimorfismo_Heranca_Abstraction/Polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgramacaoFuncional_ExpressoesLambda/ProgramacaoFuncional_ExpressoesLambda.iml" filepath="$PROJECT_DIR$/ProgramacaoFuncional_ExpressoesLambda/ProgramacaoFuncional_ExpressoesLambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Set_Exercicios/Set_Exercicios.iml" filepath="$PROJECT_DIR$/Collections/Set_Exercicios/Set_Exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sintaxe-Desafio/Sintaxe-Desafio.iml" filepath="$PROJECT_DIR$/Sintaxe-Desafio/Sintaxe-Desafio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/POO_Udemy/StaticMembers/StaticMembers.iml" filepath="$PROJECT_DIR$/OOP/POO_Udemy/StaticMembers/StaticMembers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TratamentoDeExececoes/TratamentoDeExececoes.iml" filepath="$PROJECT_DIR$/TratamentoDeExececoes/TratamentoDeExececoes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Vetores/Vetores.iml" filepath="$PROJECT_DIR$/Arrays/Vetores/Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/StaticMembers/StaticMembers.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/OOP/POO_Udemy/StaticMembers/StaticMembers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/TratamentoDeExececoes/TratamentoDeExececoes.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/TratamentoDeExececoes/TratamentoDeExececoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Vetores.iml" filepath="$PROJECT_DIR$/com/repojava/javacoursebasico/intro/Arrays/Vetores/Vetores.iml" />
     </modules>
   </component>
 </project>
