@@ -1,4 +1,4 @@
-package aplicacao;
+/*package aplicacao;
 
 import dominio.Pessoa;
 import jakarta.persistence.EntityManager;
@@ -30,3 +30,4 @@ public class Programa {
 	}
 
 }
+*/

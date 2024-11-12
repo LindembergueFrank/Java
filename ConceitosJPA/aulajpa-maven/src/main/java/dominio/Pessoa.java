@@ -1,4 +1,4 @@
-package dominio;
+/*package dominio;
 
 import java.io.Serializable;
 
@@ -59,3 +59,4 @@ public class Pessoa implements Serializable{
 	
 
 }
+*/
