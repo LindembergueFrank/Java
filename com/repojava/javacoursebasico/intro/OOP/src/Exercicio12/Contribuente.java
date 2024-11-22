@@ -1,6 +1,6 @@
 package Exercicio12;
 
-public class Contribuente {
+public abstract class Contribuente {
     private String nome;
 
     public Contribuente(String nome) {
@@ -14,4 +14,6 @@ public class Contribuente {
     public void setNome(String nome) {
         this.nome = nome;
     }
+
+    public abstract double calcularImposto();
 }
