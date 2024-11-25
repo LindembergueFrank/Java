@@ -1,6 +1,6 @@
-package model.entities;
+package Exercicio1.model.entities;
 
-import model.exceptions.AccountExecption;
+import Exercicio1.model.exceptions.AccountExecption;
 
 public class Account {
     private Integer number;
