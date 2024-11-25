@@ -1,4 +1,4 @@
-package model.exceptions;
+package Exercicio1.model.exceptions;
 
 public class AccountExecption extends RuntimeException {
 

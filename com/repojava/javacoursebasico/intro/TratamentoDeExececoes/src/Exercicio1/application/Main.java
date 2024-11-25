@@ -1,7 +1,7 @@
-package application;
+package Exercicio1.application;
 
-import model.entities.Account;
-import model.exceptions.AccountExecption;
+import Exercicio1.model.entities.Account;
+import Exercicio1.model.exceptions.AccountExecption;
 
 import java.util.Locale;
 import java.util.Scanner;
