@@ -2,8 +2,8 @@ package Exercicio2;
 
 public class Contato {
     private String name;
-    private String phone;
-    private int id;
+    private long phone;
+    private int id = 0;
 
     public String getName() {
         return name;
@@ -13,11 +13,11 @@ public class Contato {
         this.name = name;
     }
 
-    public String getPhone() {
+    public long getPhone() {
         return phone;
     }
 
-    public void setPhone(String phone) {
+    public void setPhone(long phone) {
         this.phone = phone;
     }
 
@@ -31,10 +31,6 @@ public class Contato {
 
     @Override
     public String toString() {
-        return "Contato{" +
-                "name='" + name + '\'' +
-                ", phone='" + phone + '\'' +
-                ", id=" + id +
-                '}';
+        return "ID: " + id + "\nNome: " + name + ", Número: " + phone;
     }
 }
