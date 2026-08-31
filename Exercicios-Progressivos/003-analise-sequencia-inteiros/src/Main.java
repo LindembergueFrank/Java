@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             int quantidade = 0;
-            int soma = 0;
+            long soma = 0L;
             int positivos = 0;
             int negativos = 0;
             int pares = 0;
