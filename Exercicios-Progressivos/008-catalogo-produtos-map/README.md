@@ -52,6 +52,7 @@ Catalogo:
 - associação entre chave e objeto;
 - `put`, `get`, `remove`, `containsKey` e `values`;
 - normalização de chaves;
+- normalização determinística com `Locale.ROOT`;
 - composição e encapsulamento de coleção;
 - prevenção de duplicidade por chave;
 - `List.copyOf` para fornecer um snapshot imutável;
@@ -62,7 +63,7 @@ Catalogo:
 
 `Produto` representa a entidade e protege suas invariantes básicas. `CatalogoProdutos` usa um `LinkedHashMap` porque o problema possui duas necessidades simultâneas: localizar produtos diretamente pelo código e preservar uma ordem previsível de apresentação.
 
-O código recebido é normalizado com `trim()` e `toUpperCase()` antes de ser usado como chave. Assim, `tec-01`, `TEC-01` e ` TEC-01 ` representam o mesmo identificador lógico e não podem gerar cadastros duplicados.
+O código recebido é normalizado com `trim()` e `toUpperCase(Locale.ROOT)` antes de ser usado como chave. O uso explícito de `Locale.ROOT` evita que a normalização varie conforme a configuração regional da JVM. Assim, `tec-01`, `TEC-01` e ` TEC-01 ` representam o mesmo identificador lógico de forma determinística.
 
 A escolha de `Map` elimina a necessidade de percorrer todos os produtos para cada consulta por código. Não são introduzidos Streams ou abstrações adicionais nesta etapa, pois o foco é compreender a semântica de uma coleção chave-valor. O preço permanece em `double` apenas para manter continuidade com os exercícios anteriores; aplicações financeiras reais normalmente exigem uma representação decimal apropriada, como `BigDecimal`.
 
@@ -72,6 +73,7 @@ Os testes cobrem:
 
 - cadastro e consulta usando chave normalizada;
 - rejeição de código duplicado em caixa diferente;
+- normalização consistente mesmo quando o locale padrão da JVM é temporariamente alterado para turco;
 - remoção de produto existente e inexistente;
 - preservação da ordem de inserção;
 - proteção da lista retornada contra modificação estrutural externa;
