@@ -1,5 +1,6 @@
 import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
 
 public class CatalogoProdutos {
@@ -42,6 +43,6 @@ public class CatalogoProdutos {
     }
 
     private String normalizarCodigo(String codigo) {
-        return codigo.trim().toUpperCase();
+        return codigo.trim().toUpperCase(Locale.ROOT);
     }
 }

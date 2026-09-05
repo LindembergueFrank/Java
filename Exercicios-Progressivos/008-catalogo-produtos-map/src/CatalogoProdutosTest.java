@@ -1,9 +1,11 @@
 import java.util.List;
+import java.util.Locale;
 
 public class CatalogoProdutosTest {
     public static void main(String[] args) {
         testarCadastroEBuscaPorChave();
         testarDuplicidadeNormalizada();
+        testarNormalizacaoIndependenteDeLocale();
         testarRemocao();
         testarOrdemEEncapsulamento();
         testarValidacoes();
@@ -28,6 +30,22 @@ public class CatalogoProdutosTest {
         assertFalse(catalogo.adicionar(new Produto("mon-01", "Outro monitor", 800.0)));
         assertEquals(1, catalogo.quantidade());
         assertEquals("Monitor", catalogo.buscarPorCodigo("MON-01").getNome());
+    }
+
+    private static void testarNormalizacaoIndependenteDeLocale() {
+        Locale localeOriginal = Locale.getDefault();
+        try {
+            Locale.setDefault(Locale.forLanguageTag("tr-TR"));
+
+            CatalogoProdutos catalogo = new CatalogoProdutos();
+            Produto item = new Produto("item-01", "Item", 10.0);
+
+            assertTrue(catalogo.adicionar(item));
+            assertSame(item, catalogo.buscarPorCodigo("ITEM-01"));
+            assertFalse(catalogo.adicionar(new Produto("ITEM-01", "Duplicado", 20.0)));
+        } finally {
+            Locale.setDefault(localeOriginal);
+        }
     }
 
     private static void testarRemocao() {
