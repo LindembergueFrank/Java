@@ -1,0 +1,70 @@
+name: Validate progressive Java exercises
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Exercicios-Progressivos/**'
+      - '.github/workflows/java-progressive.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'Exercicios-Progressivos/**'
+      - '.github/workflows/java-progressive.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Compile and run exercise tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Compile exercises and run executable tests
+        shell: bash
+        run: |
+          set -euo pipefail
+          validated=0
+          tests_run=0
+
+          while IFS= read -r src_dir; do
+            sources=$(find "$src_dir" -maxdepth 1 -type f -name '*.java' -print)
+            if [ -z "$sources" ]; then
+              continue
+            fi
+
+            exercise_name=$(basename "$(dirname "$src_dir")")
+            build_dir=$(mktemp -d)
+            echo "Validating ${exercise_name}"
+
+            javac -encoding UTF-8 -d "$build_dir" $sources
+            validated=$((validated + 1))
+
+            while IFS= read -r test_source; do
+              [ -z "$test_source" ] && continue
+              test_class=$(basename "$test_source" .java)
+              echo "Running ${test_class}"
+              java -ea -cp "$build_dir" "$test_class"
+              tests_run=$((tests_run + 1))
+            done < <(find "$src_dir" -maxdepth 1 -type f -name '*Test.java' -print | sort)
+
+            rm -rf "$build_dir"
+          done < <(find Exercicios-Progressivos -mindepth 2 -maxdepth 2 -type d -name src -print | sort)
+
+          if [ "$validated" -eq 0 ]; then
+            echo "No progressive Java exercise with sources was found." >&2
+            exit 1
+          fi
+
+          echo "Validated ${validated} exercise source directories; executed ${tests_run} test classes."
