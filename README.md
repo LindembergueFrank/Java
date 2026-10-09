@@ -4,6 +4,12 @@ Repositório dedicado ao estudo contínuo de **Java** por meio de exercícios pr
 
 O objetivo é registrar a evolução técnica de forma organizada, permitindo acompanhar o avanço desde fundamentos da linguagem até orientação a objetos, Collections, Streams, testes, princípios de engenharia de software e arquitetura.
 
+## Conteúdo implementado
+
+A pasta [Exercicios-Progressivos](Exercicios-Progressivos/) reúne as soluções numeradas disponíveis. Cada exercício possui seu enunciado e instruções. Os tópicos e etapas abaixo descrevem a progressão planejada; a presença de uma tecnologia no roteiro não significa que ela já esteja implementada.
+
+Também existem exemplos em [Collections](Collections/), [ConceitosJPA](ConceitosJPA/) e [ProgramacaoFuncional_ExpressoesLambda](ProgramacaoFuncional_ExpressoesLambda/).
+
 ## 🎯 Escopo da trilha
 
 A coleção progressiva foi desenhada para chegar a aproximadamente **30 exercícios autorais**, priorizando cobertura de conceitos e aumento real de complexidade em vez de quantidade.
@@ -206,8 +212,8 @@ Entre no diretório do exercício desejado e siga as instruções apresentadas e
 Para exercícios simples contendo apenas `Main.java`:
 
 ```bash
-javac Main.java
-java Main
+javac src/Main.java
+java -cp src Main
 ```
 
 Exercícios que utilizarem Maven, Gradle, testes ou outra estrutura terão os comandos específicos documentados em seu próprio diretório.
